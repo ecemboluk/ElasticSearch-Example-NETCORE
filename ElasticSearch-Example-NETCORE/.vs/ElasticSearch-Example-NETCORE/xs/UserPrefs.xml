@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{58F7DC4A-C144-4E43-864F-E2C25BDB7950}|Default">
+  <MonoDevelop.Ide.ItemProperties.ElasticSearch-Example-NETCORE PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticSearch-Example-NETCORE/wwwroot/js/site.js">
+    <Files>
+      <File FileName="ElasticSearch-Example-NETCORE/Controllers/HomeController.cs" Line="68" Column="59" />
+      <File FileName="ElasticSearch-Example-NETCORE/Views/Home/MainPage.cshtml" Line="1" Column="1" />
+      <File FileName="ElasticSearch-Example-NETCORE/wwwroot/js/site.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElasticSearch-Example-NETCORE" expanded="True">
+            <Node name="ElasticSearch-Example-NETCORE" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
